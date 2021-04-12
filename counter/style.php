@@ -20,7 +20,7 @@
 }
 
 .copyright {
-        font-family: Arial, Helvetica, sans-serif ;
+        font-family: Arial, Titillium web, sans-serif ;
         font-size: 10px ;
 }
 
